@@ -1,1 +1,50 @@
-/* Put your style information here! */
+body{
+    background-color: #FFFFFA;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    font-family: 'Zilla Slab', serif;
+}
+h1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 20px;   
+}
+p {
+    font-size:14px;
+    font-family: 'Zilla Slab', serif;
+}
+i {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
+ul {
+    font-size:14px;
+    line-height:130%;
+}
+h5 {
+    font-size:15px;
+}
+.mom{
+    color: #880e4f;
+}
+.dad{
+    color: #0859c6;
+}
+.cousin{
+    color:#2E8B57;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+} 
+.quad {
+    width: 60%;
+}
